@@ -1,0 +1,9 @@
+name: ReligioItem
+version: '${project.version}'
+main: com.github.jasgo.religioitem.Religioitem
+api-version: 1.18
+authors: [ Jasgo ]
+
+commands:
+  ri:
+    description: "/ri reload | /ri get <ItemName>"
